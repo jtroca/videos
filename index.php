@@ -16,7 +16,7 @@
                 <source src="http://www.fuckanewgirltonight.com/video/sales22.mp4" type="video/mp4 codecs='avc1.42E01E, mp4a.40.2'"/>
                 <source src="http://www.fuckanewgirltonight.com/video/sales17_48k.webm" type="video/webm "/>
                 <source src="http://www.fuckanewgirltonight.com/video/sales1.3gp" type="video/3gp"/>
-                <source src="http://localhost/videotesting/video/vid.flv" type="video/flv"/>
+                <source src="http://www.fuckanewgirltonight.com/video/sales20.flv" type="video/flv"/>
             </video>
         </div>
         
